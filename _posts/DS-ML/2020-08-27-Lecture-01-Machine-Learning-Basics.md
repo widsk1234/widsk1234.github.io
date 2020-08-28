@@ -3,6 +3,7 @@ title: "Lecture 01 Machine Learning Basics"
 date: 2020-08-25 08:26:28 -0400
 categories: MachineLearning
 category: [DS/ML]
+comments: true
 ---
 
 Lecture 01 Machine Learning Basics

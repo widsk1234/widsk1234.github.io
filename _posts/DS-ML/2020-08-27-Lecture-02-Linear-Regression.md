@@ -3,6 +3,7 @@ title: "Lecture 02 Linear Regression"
 date: 2020-08-26 05:30:28 -0400
 categories: MachineLearning
 category: [DS/ML]
+comments: true
 ---
 
 
